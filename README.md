@@ -1,3 +1,3 @@
 # git_tutorials
 
-This is basic git repo 
+This is the basic git repo 
