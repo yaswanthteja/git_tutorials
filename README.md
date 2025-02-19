@@ -57,3 +57,7 @@ Workflow Example:
 8. Review and discuss the changes with your team.
 
 9. Merge the changes into the main branch if approved.
+
+### Git foundational Certification
+
+- Git Basics
